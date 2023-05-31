@@ -1,0 +1,6 @@
+// This function tests whether a given number is even or not
+function testEven(n) {
+  if (n % 2 === 0) {
+    return true
+ } else return false;
+};
